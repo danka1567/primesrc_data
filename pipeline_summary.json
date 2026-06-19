@@ -1,86 +1,86 @@
 [
   {
     "serial": 1,
-    "title": "",
+    "title": "Star Wars",
     "tmdb_id": 11,
-    "imdb_id": null,
+    "imdb_id": "tt0076759",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 2,
-    "title": "",
+    "title": "Forrest Gump",
     "tmdb_id": 13,
-    "imdb_id": null,
+    "imdb_id": "tt0109830",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 3,
-    "title": "",
+    "title": "American History X",
     "tmdb_id": 73,
-    "imdb_id": null,
+    "imdb_id": "tt0120586",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 4,
-    "title": "",
+    "title": "Pulp Fiction",
     "tmdb_id": 78,
-    "imdb_id": null,
+    "imdb_id": "tt0110912",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 5,
-    "title": "",
+    "title": "Gladiator",
     "tmdb_id": 98,
-    "imdb_id": null,
+    "imdb_id": "tt0172495",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 6,
-    "title": "",
+    "title": "Moulin Rouge!",
     "tmdb_id": 101,
-    "imdb_id": null,
+    "imdb_id": "tt0203009",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 7,
-    "title": "",
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
     "tmdb_id": 120,
-    "imdb_id": null,
+    "imdb_id": "tt0120737",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 8,
-    "title": "",
+    "title": "The Lord of the Rings: The Return of the King",
     "tmdb_id": 122,
-    "imdb_id": null,
+    "imdb_id": "tt0167260",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 9,
-    "title": "",
+    "title": "Donnie Darko",
     "tmdb_id": 141,
-    "imdb_id": null,
+    "imdb_id": "tt0246578",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 10,
-    "title": "",
+    "title": "The Dark Knight",
     "tmdb_id": 155,
-    "imdb_id": null,
+    "imdb_id": "tt0468569",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 11,
-    "title": "",
+    "title": "Django",
     "tmdb_id": 185,
-    "imdb_id": null,
+    "imdb_id": "tt0056934",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 12,
-    "title": "",
+    "title": "Braveheart",
     "tmdb_id": 197,
-    "imdb_id": null,
+    "imdb_id": "tt0112573",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
@@ -134,16 +134,16 @@
   },
   {
     "serial": 14,
-    "title": "",
+    "title": "The Godfather Part II",
     "tmdb_id": 240,
-    "imdb_id": null,
+    "imdb_id": "tt0071562",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 15,
-    "title": "",
+    "title": "The Silence of the Lambs",
     "tmdb_id": 274,
-    "imdb_id": null,
+    "imdb_id": "tt0102926",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
@@ -191,177 +191,177 @@
   },
   {
     "serial": 17,
-    "title": "",
+    "title": "Once Upon a Time in America",
     "tmdb_id": 311,
-    "imdb_id": null,
+    "imdb_id": "tt0087843",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 18,
-    "title": "",
+    "title": "12 Angry Men",
     "tmdb_id": 389,
-    "imdb_id": null,
+    "imdb_id": "tt0050083",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 19,
-    "title": "",
+    "title": "Schindler's List",
     "tmdb_id": 424,
-    "imdb_id": null,
+    "imdb_id": "tt0108052",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 20,
-    "title": "",
+    "title": "The Green Mile",
     "tmdb_id": 497,
-    "imdb_id": null,
+    "imdb_id": "tt0120689",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 21,
-    "title": "",
+    "title": "One Flew Over the Cuckoo's Nest",
     "tmdb_id": 510,
-    "imdb_id": null,
+    "imdb_id": "tt0073486",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 22,
-    "title": "",
+    "title": "Psycho",
     "tmdb_id": 539,
-    "imdb_id": null,
+    "imdb_id": "tt0054215",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 23,
-    "title": "",
+    "title": "Fight Club",
     "tmdb_id": 550,
-    "imdb_id": null,
+    "imdb_id": "tt0137523",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 24,
-    "title": "",
+    "title": "City of God",
     "tmdb_id": 598,
-    "imdb_id": null,
+    "imdb_id": "tt0317248",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 25,
-    "title": "",
+    "title": "The Usual Suspects",
     "tmdb_id": 629,
-    "imdb_id": null,
+    "imdb_id": "tt0114814",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 26,
-    "title": "",
+    "title": "Pulp Fiction",
     "tmdb_id": 680,
-    "imdb_id": null,
+    "imdb_id": "tt0110912",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 27,
-    "title": "",
+    "title": "The Truman Show",
     "tmdb_id": 694,
-    "imdb_id": null,
+    "imdb_id": "tt0120382",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 28,
-    "title": "",
+    "title": "Goodfellas",
     "tmdb_id": 769,
-    "imdb_id": null,
+    "imdb_id": "tt0099685",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 29,
-    "title": "",
+    "title": "Se7en",
     "tmdb_id": 807,
-    "imdb_id": null,
+    "imdb_id": "tt0114369",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 30,
-    "title": "",
+    "title": "Saving Private Ryan",
     "tmdb_id": 857,
-    "imdb_id": null,
+    "imdb_id": "tt0120815",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 31,
-    "title": "",
+    "title": "The Empire Strikes Back",
     "tmdb_id": 1891,
-    "imdb_id": null,
+    "imdb_id": "tt0080684",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 32,
-    "title": "",
+    "title": "Return of the Jedi",
     "tmdb_id": 1892,
-    "imdb_id": null,
+    "imdb_id": "tt0086190",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 33,
-    "title": "",
+    "title": "Blood Diamond",
     "tmdb_id": 5503,
-    "imdb_id": null,
+    "imdb_id": "tt0450259",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 34,
-    "title": "",
+    "title": "Amélie",
     "tmdb_id": 8075,
-    "imdb_id": null,
+    "imdb_id": "tt0211915",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 35,
-    "title": "",
+    "title": "Cinema Paradiso",
     "tmdb_id": 11216,
-    "imdb_id": null,
+    "imdb_id": "tt0095765",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 36,
-    "title": "",
+    "title": "Interstellar",
     "tmdb_id": 157336,
-    "imdb_id": null,
+    "imdb_id": "tt0816692",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 37,
-    "title": "",
+    "title": "Ip Man",
     "tmdb_id": 240832,
-    "imdb_id": null,
+    "imdb_id": "tt1220719",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 38,
-    "title": "",
+    "title": "Whiplash",
     "tmdb_id": 244786,
-    "imdb_id": null,
+    "imdb_id": "tt2582802",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 39,
-    "title": "",
+    "title": "Your Name.",
     "tmdb_id": 372058,
-    "imdb_id": null,
+    "imdb_id": "tt5311514",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 40,
-    "title": "",
+    "title": "Green Book",
     "tmdb_id": 424694,
-    "imdb_id": null,
+    "imdb_id": "tt6966692",
     "extracted_at": "2026-06-19T20:16:07Z"
   },
   {
     "serial": 41,
-    "title": "",
+    "title": "The Suicide Squad",
     "tmdb_id": 629542,
-    "imdb_id": null,
+    "imdb_id": "tt8791950",
     "extracted_at": "2026-06-19T20:16:07Z"
   }
 ]
