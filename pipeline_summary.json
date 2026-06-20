@@ -4,7 +4,7 @@
     "title": "The Godfather",
     "tmdb_id": 238,
     "imdb_id": "tt0068646",
-    "extracted_at": "2026-06-19T21:11:31Z",
+    "extracted_at": "2026-06-20T02:58:26Z",
     "host-1": "streamta.site", "url-1": "https://streamta.site/e/qOK64982xdtzVBe/The.Godfather.1972.REMASTERED.1080p.BluRay.x265.AAC5.1-RARBG.mp4",
     "host-2": "voe.sx", "url-2": "https://voe.sx/e/eq5qgohuki6h",
     "host-3": "voe.sx", "url-3": "https://voe.sx/e/rsadpzvlcaaf",
@@ -15,14 +15,20 @@
     "host-8": "streamplay.to", "url-8": "https://streamplay.to/embed-a5463lrjoe14.html",
     "host-9": "luluvdoo.com", "url-9": "https://luluvdoo.com/e/602m4h9uty8g",
     "host-10": "vidnest.io", "url-10": "https://vidnest.io/e/k86vf6p4tjya",
-    "host-11": "vidnest.io", "url-11": "https://vidnest.io/e/iepjbox88ujd"
+    "host-11": "vidnest.io", "url-11": "https://vidnest.io/e/iepjbox88ujd",
+    "host-12": "streamta.site", "url-12": "https://streamta.site/e/v9JVmA6382sajg/The.Godfather.1972.1080p.BrRip.x264.BOKUTOX.YIFY.mp4",
+    "host-13": "voe.sx", "url-13": "https://voe.sx/e/mbei2vihcmol",
+    "host-14": "bysejikuar.com", "url-14": "https://bysejikuar.com/e/3s7bfkwt614z",
+    "host-15": "filelions.to", "url-15": "https://filelions.to/v/1xnovdir22ea",
+    "host-16": "vidmoly.biz", "url-16": "https://vidmoly.biz/embed-0pzu1je70okd.html",
+    "host-17": "luluvdoo.com", "url-17": "https://luluvdoo.com/e/00m5pt6ac3jo"
   },
   {
     "serial": 2,
     "title": "The Shawshank Redemption",
     "tmdb_id": 278,
     "imdb_id": "tt0111161",
-    "extracted_at": "2026-06-19T21:11:31Z",
+    "extracted_at": "2026-06-20T02:58:26Z",
     "host-1": "voe.sx", "url-1": "https://voe.sx/e/hqkw6rsgfgie",
     "host-2": "voe.sx", "url-2": "https://voe.sx/e/bfhsaomkbnt4",
     "host-3": "dood.watch", "url-3": "https://dood.watch/e/s5qv0jjnuryy",
@@ -31,7 +37,14 @@
     "host-6": "filelions.to", "url-6": "https://filelions.to/v/2jt48h3yy8jt",
     "host-7": "mixdrop.ag", "url-7": "https://mixdrop.ag/e/pkd9kg4oikl6nl",
     "host-8": "luluvdoo.com", "url-8": "https://luluvdoo.com/e/msj5eqxt4rkb",
-    "host-9": "vidnest.io", "url-9": "https://vidnest.io/e/2kux8tjevs8s"
+    "host-9": "vidnest.io", "url-9": "https://vidnest.io/e/2kux8tjevs8s",
+    "host-10": "streamta.site", "url-10": "https://streamta.site/e/b3azKLB8j8SL11/The.Shawshank.Redemption.1994.REMASTERED.1080p.BluRay.x265-RARBG.mp4",
+    "host-11": "voe.sx", "url-11": "https://voe.sx/e/k4flrpdqrn0f",
+    "host-12": "filelions.to", "url-12": "https://filelions.to/v/094u71b3m3gn",
+    "host-13": "dood.watch", "url-13": "https://dood.watch/e/4yj6efhmbwre",
+    "host-14": "mixdrop.ag", "url-14": "https://mixdrop.ag/e/gjo93e4midzr7j",
+    "host-15": "luluvdoo.com", "url-15": "https://luluvdoo.com/e/mrivclozxth9",
+    "host-16": "vidnest.io", "url-16": "https://vidnest.io/e/r8u8dsznmk00"
   },
   {
     "serial": 3,
